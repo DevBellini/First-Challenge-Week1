@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64e169f99e58fb0538722469"
+  },
+  "Object": "Phone",
+  "Name": "Guilherme Bellini",
+  "Age": 30,
+  "Telephone": {
+    "$numberLong": "11956852708"
+  },
+  "Height": 1.82,
+  "E-mail": "guilherme.bellini.pb@compasso.com.br",
+  "CPF": {
+    "$numberLong": "41088790522"
+  },
+  "Date of birth": "03/07/1994",
+  "Addres": {
+    "Street": "Rua da Glória, 195",
+    "Neighborhood": "Liberdade",
+    "Zip": 13104098,
+    "Complement": "University",
+    "City": "São Paulo",
+    "Country": "Brasil"
+  }
+}]
